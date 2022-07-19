@@ -1,0 +1,14 @@
+[Al](Cl)(Cl)Cl
+C(F)(F)(F)S(=O)(=O)[O-].[Ag+]
+C[Al](C)C
+[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Al+3]
+CC[O-].CC[O-].CC[O-].[Al+3]
+C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].[Al+3]
+B(F)(F)F
+C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].[Cu+2]
+[Ga](Br)(Br)Br
+Cl[In](Cl)Cl
+[Li+].[B-](F)(F)(F)F
+[Li+].[Br-]
+[Li+].[O-]Cl(=O)(=O)=O
+[Li+].C(F)(F)(F)S(=O)(=O)[O-]
